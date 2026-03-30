@@ -3,9 +3,6 @@
 Настройка автоматического входа в Windows без пароля.
 
 
-[![Download](https://img.shields.io/badge/Download-DB_Editor-e94560?style=for-the-badge)](https://github.com/NaitSide/AutoLogin_Enable/releases/download/AutoLogin_Enable/AutoLogin_Enable.bat)
-
-
 ## 🚀 Что делает
 
 Скрипт настраивает автологин для текущего пользователя:
